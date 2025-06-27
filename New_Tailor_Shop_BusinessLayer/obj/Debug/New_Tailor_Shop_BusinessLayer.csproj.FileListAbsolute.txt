@@ -1,0 +1,9 @@
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\bin\Debug\New_Tailor_Shop_BusinessLayer.dll
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\bin\Debug\New_Tailor_Shop_BusinessLayer.pdb
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\bin\Debug\New_Tailor_Shop_DataAccessLayer.dll
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\bin\Debug\New_Tailor_Shop_DataAccessLayer.pdb
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\obj\Debug\New_Tailor_Shop_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\obj\Debug\New_Tailor_Shop_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\obj\Debug\New_Tail.3033776A.Up2Date
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\obj\Debug\New_Tailor_Shop_BusinessLayer.dll
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_BusinessLayer\obj\Debug\New_Tailor_Shop_BusinessLayer.pdb

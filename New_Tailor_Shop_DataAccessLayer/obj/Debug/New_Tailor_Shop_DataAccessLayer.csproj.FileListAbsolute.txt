@@ -1,0 +1,6 @@
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\bin\Debug\New_Tailor_Shop_DataAccessLayer.dll
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\bin\Debug\New_Tailor_Shop_DataAccessLayer.pdb
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\obj\Debug\New_Tailor_Shop_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\obj\Debug\New_Tailor_Shop_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\obj\Debug\New_Tailor_Shop_DataAccessLayer.dll
+C:\Users\y7709\source\repos\New_Tailor_Shop\Project_New_Tailor_Shop\New_Tailor_Shop_DataAccessLayer\obj\Debug\New_Tailor_Shop_DataAccessLayer.pdb
