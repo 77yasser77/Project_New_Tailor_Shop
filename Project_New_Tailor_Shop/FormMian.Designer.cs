@@ -1,6 +1,6 @@
 ﻿namespace Project_New_Tailor_Shop
 {
-    partial class Form1
+    partial class FormMian
     {
         /// <summary>
         /// Required designer variable.

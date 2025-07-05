@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Project_New_Tailor_Shop
 {
-    public partial class Form1 : Form
+    public partial class FormMian : Form
     {
-        public Form1()
+        public FormMian()
         {
             InitializeComponent();
         }

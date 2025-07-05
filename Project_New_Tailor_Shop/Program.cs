@@ -16,7 +16,7 @@ namespace Project_New_Tailor_Shop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormMian());
         }
     }
 }

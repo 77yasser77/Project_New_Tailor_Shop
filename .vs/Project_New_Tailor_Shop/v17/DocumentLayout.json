@@ -1,12 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\y7709\\source\\repos\\New_Tailor_Shop\\Project_New_Tailor_Shop\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|c:\\users\\y7709\\source\\repos\\githubnew\\project_new_tailor_shop\\project_new_tailor_shop\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|solutionrelative:project_new_tailor_shop\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|c:\\users\\y7709\\source\\repos\\githubnew\\project_new_tailor_shop\\project_new_tailor_shop\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|solutionrelative:project_new_tailor_shop\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|c:\\users\\y7709\\source\\repos\\githubnew\\project_new_tailor_shop\\project_new_tailor_shop\\formaddnewnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90E0C87E-8462-4BC3-815A-69E43A830105}|Project_New_Tailor_Shop\\Project_New_Tailor_Shop.csproj|solutionrelative:project_new_tailor_shop\\formaddnewnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "RelativeDocumentMoniker": "Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "ToolTip": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "RelativeToolTip": "Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:31:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "RelativeDocumentMoniker": "Project_New_Tailor_Shop\\FormAddCustomer.cs",
+              "ToolTip": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddCustomer.cs [Design]",
+              "RelativeToolTip": "Project_New_Tailor_Shop\\FormAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:29:49.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddNewNumber.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddNewNumber.cs",
+              "RelativeDocumentMoniker": "Project_New_Tailor_Shop\\FormAddNewNumber.cs",
+              "ToolTip": "C:\\Users\\y7709\\source\\repos\\GitHubNew\\Project_New_Tailor_Shop\\Project_New_Tailor_Shop\\FormAddNewNumber.cs [Design]",
+              "RelativeToolTip": "Project_New_Tailor_Shop\\FormAddNewNumber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:29:39.161Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

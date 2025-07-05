@@ -52,11 +52,11 @@
     <Compile Include="FormAddNewNumber.Designer.cs">
       <DependentUpon>FormAddNewNumber.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormMian.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormMian.Designer.cs">
+      <DependentUpon>FormMian.cs</DependentUpon>
     </Compile>
     <Compile Include="FormAddCustomer.cs">
       <SubType>Form</SubType>
@@ -81,8 +81,8 @@
     <EmbeddedResource Include="FormAddNewNumber.resx">
       <DependentUpon>FormAddNewNumber.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FormMian.resx">
+      <DependentUpon>FormMian.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormAddCustomer.resx">
       <DependentUpon>FormAddCustomer.cs</DependentUpon>
